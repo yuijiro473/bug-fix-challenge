@@ -4,7 +4,7 @@
 
 ## セットアップ
 
-1. 以下のコマンドでリポジトリをクローンしてください。
+1. 対象のリポジトリをクローンしてください。
 
 ```bash
 git clone https://github.com/yuijiro473/bug-fix-challenge
@@ -12,7 +12,7 @@ git clone https://github.com/yuijiro473/bug-fix-challenge
 
 2. 以下の規則に従い、ブランチを作成してください。
 
-   ブランチ名：`{ユーザー名}-bug-fix`
+   ブランチ名：`{ユーザー名}-challenge`
 
 ## 問題
 
@@ -31,7 +31,7 @@ python -m unittest test_hotel_booking.py
 
 ## クリア条件
 
-全てのテストが通過し、ターミナルに`課題クリア`あるいは`OK`の表示が出ればチャレンジ成功です。
+全てのテストが通過し、ターミナルに`課題クリア`あるいは`OK`の表示が出ればチャレンジクリアです。
 
 ## 勝利条件
 
